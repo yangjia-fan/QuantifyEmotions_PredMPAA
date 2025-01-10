@@ -1,7 +1,7 @@
 # QuantifyEmotions_PredMPAA
 A method to predict MPAA Ratings via Film Script Analysis and sentence clustering w/ LLMs
 
-There are 8 steps to the whole process:
+There are 10 steps to the process:
 
 1. Collect scripts from various sources - Scrape websites for scripts in HTML, txt, doc, or pdf format (adopted from Aveek-Saha)
 2. Collect metadata - Get metadata about the scripts including the matching MPAA rating from TMDb and IMDb (adapted from Aveek-Saha for the MPAA function)
