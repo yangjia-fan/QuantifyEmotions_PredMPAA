@@ -17,13 +17,15 @@ There are 8 steps to the whole process:
 ## Usage (these files must be run in order)
 
 First, visit Aveek's Repository to see details of how to scrape PDF scripts from Internet Sources. This step would be running the `get_scripts.py` file (See Aveek's site for more details)
-`@misc{Saha_Movie_Script_Database_2021,
+```
+@misc{Saha_Movie_Script_Database_2021,
     author = {Saha, Aveek},
     month = {7},
     title = {{Movie Script Database}},
     url = {https://github.com/Aveek-Saha/Movie-Script-Database},
     year = {2021}
-}`
+}
+```
 
 Since the MPAA metadata function was added, run the `get_metadata.py` from this repository to perform step 2. 
 
